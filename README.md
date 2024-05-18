@@ -16,6 +16,7 @@ The preprocessed corpora for the eight languages we focus on in the paper can be
 
 ## Geocoding Code
 
+The Python code to interact with the Google Geocoding API is in `google_geocoding_api.ipynb`. 
 
 
 ## Citation
