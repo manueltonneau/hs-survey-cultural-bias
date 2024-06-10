@@ -6,7 +6,7 @@ Preprocessed corpora and code for paper: ["From Languages to Geographies: Toward
 
 The preprocessed corpora for the eight languages we focus on in the paper can be found on :hugs::
 - [Arabic](https://huggingface.co/datasets/manueltonneau/arabic-hate-speech-superset)
-- [English]
+- [English](https://huggingface.co/datasets/manueltonneau/english-hate-speech-superset)
 - [French](https://huggingface.co/datasets/manueltonneau/french-hate-speech-superset)
 - [German](https://huggingface.co/datasets/manueltonneau/german-hate-speech-superset)
 - [Indonesian](https://huggingface.co/datasets/manueltonneau/indonesian-hate-speech-superset)
